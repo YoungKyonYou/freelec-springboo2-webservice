@@ -5,4 +5,4 @@
 /build/classes/java/test/
 .gradle
 .idea
-application-google.properties
+application-oauth.properties
